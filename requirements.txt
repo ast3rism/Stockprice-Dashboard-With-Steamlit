@@ -1,3 +1,5 @@
 streamlit
+pandas
 yfinance
 plotly
+datetime
