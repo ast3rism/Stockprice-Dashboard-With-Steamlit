@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+# Real Time Stock Price Dashboard
 
-A simple Streamlit app template for you to modify!
+View and analyze the real time price of stocks with this simple Stock Price Dashboard using Streamlit!
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
