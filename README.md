@@ -2,7 +2,7 @@
 
 View and analyze the real time price of stocks with this simple Stock Price Dashboard using Streamlit!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stockprice-app.streamlit.app/)
 
 ### How to run it on your own machine
 
