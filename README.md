@@ -1,4 +1,4 @@
-# Real Time Stock Price Dashboard
+# Real Time Stock Price Dashboard 📈
 
 View and analyze the real time price of stocks with this simple Stock Price Dashboard using Streamlit!
 
